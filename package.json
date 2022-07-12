@@ -1,5 +1,5 @@
 {
-  "name": "KaguraMD",
+  "name": "Elaina",
   "version": "1.2.3",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "kagura.js",
@@ -65,7 +65,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DikaArdnt/Hisoka-Morou.git"
+    "url": "git+https://github.com/Ronen6999/elaina.git"
   },
   "bugs": {
     "url": "https://github.com/DikaArdnt/Hisoka-Morou/issues"
